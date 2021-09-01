@@ -1,0 +1,9 @@
+name: EsimerkkiPlugin
+version: ${project.version}
+main: me.nikke.esimerkkiplugin.EsimerkkiPlugin
+api-version: 1.17
+authors: [ N1kkee ]
+
+commands:
+  ping:
+    description: Test Command
